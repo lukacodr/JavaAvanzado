@@ -1,4 +1,4 @@
-package FuncionLambda.Metodo;
+package Funciones.Metodo;
 
 public class Main {
 

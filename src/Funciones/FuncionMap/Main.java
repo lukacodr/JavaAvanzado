@@ -1,4 +1,4 @@
-package FuncionLambda.FuncionMap;
+package Funciones.FuncionMap;
 
 import java.util.ArrayList;
 import java.util.stream.Stream;

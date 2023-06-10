@@ -1,4 +1,4 @@
-package FuncionLambda.QueEs;
+package Funciones.FuncionLambda;
 
 //Una función lambda en Java es una característica introducida en Java 8 que permite crear y utilizar funciones anónimas
 // de forma más concisa y expresiva. Las funciones lambda son especialmente útiles en la programación funcional y en el

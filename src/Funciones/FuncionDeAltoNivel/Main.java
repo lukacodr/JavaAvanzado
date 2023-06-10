@@ -1,4 +1,4 @@
-package FuncionLambda.FuncionDeAltoNivel;
+package Funciones.FuncionDeAltoNivel;
 
 import java.util.function.Function;
 

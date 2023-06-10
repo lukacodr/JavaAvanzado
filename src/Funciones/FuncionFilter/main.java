@@ -1,4 +1,4 @@
-package FuncionLambda.FuncionFilter;
+package Funciones.FuncionFilter;
 
 //La función .filter en Java se utiliza para filtrar elementos de una colección o secuencia de datos según un criterio
 //específico. Permite crear una nueva secuencia de elementos que cumplan con ciertas condiciones definidas
@@ -32,3 +32,5 @@ public class main {
 //En resumen, la función .filter en Java se utiliza para seleccionar elementos de una colección o secuencia de datos
 //que cumplan con ciertos criterios definidos por un predicado. Ayuda a simplificar el proceso de filtrado de datos
 //en Java de una manera legible y concisa.
+
+// min 48
