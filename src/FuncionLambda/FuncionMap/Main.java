@@ -14,7 +14,7 @@ public class Main {
 
         Stream<String> valores = nombres.stream().map(x -> x.toUpperCase());
         valores.forEach(x -> System.out.println(x));
-        valores.forEach(x -> System.out.println(x));
+       
 
         //minuto 40
 
