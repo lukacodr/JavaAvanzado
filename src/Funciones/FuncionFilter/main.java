@@ -33,4 +33,4 @@ public class main {
 //que cumplan con ciertos criterios definidos por un predicado. Ayuda a simplificar el proceso de filtrado de datos
 //en Java de una manera legible y concisa.
 
-// min 48
+//
