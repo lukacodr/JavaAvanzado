@@ -22,4 +22,4 @@ public class FormaRecursiva {
         return resultado;
     }
 }
-//min12
+//min12.
