@@ -2,9 +2,17 @@ package Funciones.FuncionRecursiva.Factorial;
 
 public class Main {
 
-    public static void main(String[] args) {}
+    public static void main(String[] args) {
+        System.out.println("Factorial iterativa: " + factorial(5));
+        System.out.println("Factorial recursiva: " + factorialRecursivo(5));
+        System.out.println("Factorial funcional: " + factorialFuncional(5));
+    }
 
-        public static int factorial ( int numero){
+    private static String factorialFuncional(int numero) {
+        return null;
+    }
+
+    public static int factorial ( int numero){
             int resultado = 1;
 
             for (int i = 1; i <= numero; i++) {
