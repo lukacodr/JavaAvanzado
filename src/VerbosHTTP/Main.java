@@ -9,7 +9,10 @@
 // Tambien los servicios CRUD estan bien definidos
 // Se utilizan nombres, no verbos
 
+http://www.dominio.tld/api/v1/users
+    -POST"nombre","apellidos"
+
 // http://www.dominio.tld/users
 // http://www.dominio.tld/users/vroman/friends/paco
-// min 9
+//
 
