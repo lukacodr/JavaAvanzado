@@ -15,5 +15,3 @@ http://www.dominio.tld/api/v1/users
 // http://www.dominio.tld/users
 // http://www.dominio.tld/users/vroman/friends/paco
 //
-
-////////////
