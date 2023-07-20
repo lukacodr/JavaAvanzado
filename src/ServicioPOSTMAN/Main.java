@@ -39,7 +39,7 @@ package ServicioPOSTMAN;
 //pm.test("Estado es 200", function() {
 //    pm.response.to.have.status(200);
 //});
-//
+//  
 //pm.test("Primer elemento es uno", function() {
 // reply = pm.response.json();
 // pm.expect(reply[0].nombre).nombre).to.eql("uno");
