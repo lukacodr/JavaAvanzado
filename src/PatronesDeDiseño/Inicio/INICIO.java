@@ -1,4 +1,3 @@
-package PatronesDeDiseño;
 // QUE ES UN PATRON DE DISENO
 // Un patron de diseno es una tecnica para resolver un problema en el desarrollo del software.
 //
@@ -57,7 +56,3 @@ package PatronesDeDiseño;
 // Patron observer:
 // El receptor mira lo que esta haciendo el emisor y esta atento.
 
-
-
-public class Main {
-}
