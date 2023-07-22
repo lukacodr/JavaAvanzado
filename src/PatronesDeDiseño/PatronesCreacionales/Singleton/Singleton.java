@@ -14,6 +14,6 @@ public class Singleton {
     public void setContador(int contador) {
         this.contador = contador;
     }
-//min8::
+//min8:::
 
 }
