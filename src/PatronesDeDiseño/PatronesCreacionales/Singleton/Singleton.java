@@ -15,6 +15,6 @@ public class Singleton {
         this.contador = contador;
     }
 //min8:::
-    ///
+    ////
 
 }
