@@ -12,6 +12,8 @@ public class Main {
         System.out.println(singleton2.getContador());
         System.out.println(singleton2);
 
+        //
+
 
     }
 }
