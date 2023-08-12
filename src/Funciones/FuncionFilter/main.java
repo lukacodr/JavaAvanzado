@@ -25,7 +25,7 @@ public class main {
         System.out.println(evenNumbers); // Imprime [2, 4, 6, 8, 10]
     }
 }
-//En este ejemplo, se utiliza .filter para filtrar solo los números pares de la lista original de números. El predicado
+// En este ejemplo, se utiliza .filter para filtrar solo los números pares de la lista original de números. El predicado
 //number -> number % 2 == 0 verifica si un número es divisible por 2 (es decir, si es par) y devuelve true o false en
 //consecuencia. Al final, se recopilan los números filtrados en una nueva lista llamada evenNumbers, que contiene los
 //números pares [2, 4, 6, 8, 10].
