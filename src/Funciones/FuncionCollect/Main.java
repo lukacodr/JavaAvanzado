@@ -18,6 +18,6 @@ import java.util.stream.Collectors;
             System.out.println(collectedList); // Imprimir la lista resultante
         }
     }
-        //En este ejemplo, se crea un flujo (stream) de números y se aplica un filtro para seleccionar solo los números pares. Luego, la función .collect() se utiliza con el colector Collectors.toList() para acumular los números filtrados en una lista mutable. Finalmente, se imprime la lista resultante.
+        // En este ejemplo, se crea un flujo (stream) de números y se aplica un filtro para seleccionar solo los números pares. Luego, la función .collect() se utiliza con el colector Collectors.toList() para acumular los números filtrados en una lista mutable. Finalmente, se imprime la lista resultante.
 
-        //La función .collect() es una operación de reducción terminal, lo que significa que produce un resultado final y termina el flujo (stream). Proporciona una forma poderosa y flexible de acumular elementos en una colección o realizar otras operaciones personalizadas en los flujos (streams) de Java.
+        // La función .collect() es una operación de reducción terminal, lo que significa que produce un resultado final y termina el flujo (stream). Proporciona una forma poderosa y flexible de acumular elementos en una colección o realizar otras operaciones personalizadas en los flujos (streams) de Java.
